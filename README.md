@@ -11,7 +11,7 @@ by Olivia Jack & Naoto Hieda
 
 ## Run
 
-    npm run dev
+    npm start
 
 ## Build
 
